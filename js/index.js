@@ -21,12 +21,14 @@ $(function ($) {
     });
     // creates a notification
     function createBuildNotification(data) {
-        notification = new Notification("Build for \"" + data.repository_slug , {
+        notification = new Notification("Build for" + data.repository_slug, {
             icon: "images/" + (data.state === 'passed' ? 'green_dot.png' : 'red_dot.png'),
             body: "Build for \"" + data.repository_slug + "\" finished at "
-            + data.finished_at + " with state: " + data.state
+            + data.finished_at + " with state: " + data.state,
+            tag:'travis-ci.org'
+
         })
-        setTimeout(notification.close.bind(notification), 4000);
+        setTimeout(notification.close.bind(notification), 10000);
         return notification
     }
 })
