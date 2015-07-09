@@ -2,92 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07ed5d5-66af-49e0-bcab-adc97b5a21f7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\event\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\aikah\Documents\development\github.com\mediactiv\vagrant\getting-started\travis-notifications\bower_components\jquery\src\wrap.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/support/jasmine.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="travis-notifications.iws" />
@@ -111,21 +30,62 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.48">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state vertical-scroll-proportion="-5.76">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16107382">
-              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <marker date="1436410585431" expanded="true" signature="27:869" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04071247">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jasmine.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.76">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,7 +99,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/spec/support/jasmine.json" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -151,10 +115,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="114" />
-    <option name="width" value="759" />
-    <option name="height" value="428" />
+    <option name="x" value="383" />
+    <option name="y" value="60" />
+    <option name="width" value="905" />
+    <option name="height" value="523" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -163,7 +127,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -207,7 +171,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,11 +189,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travis-notifications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="travis-notifications" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,15 +329,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="114" width="759" height="428" extended-state="0" />
+    <frame x="383" y="60" width="905" height="523" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32738096" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22146119" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21841794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -364,7 +347,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -392,25 +374,59 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <marker date="1436410585431" expanded="true" signature="27:869" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.48">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state vertical-scroll-proportion="-5.76">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.76">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16107382">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <marker date="1436410585431" expanded="true" signature="27:869" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04071247">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

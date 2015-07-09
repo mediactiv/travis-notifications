@@ -1,0 +1,25 @@
+{
+  "name": "travis-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediactiv/travis-notifications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediactiv/travis-notifications/issues"
+  },
+  "homepage": "https://github.com/mediactiv/travis-notifications",
+  "dependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
