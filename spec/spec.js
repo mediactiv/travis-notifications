@@ -1,5 +1,5 @@
 describe('A spec',function(){
     it('should pass',function(){
-        expect(true).toBe(true);
+        expect(true).toBe(false);
     })
 })

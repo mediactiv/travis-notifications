@@ -29,7 +29,7 @@ $(function ($) {
             dir: 'rtl'
 
         })
-        setTimeout(notification.close.bind(notification), 10000);
+        setTimeout(notification.close.bind(notification), 20000);
         return notification
     }
 })
