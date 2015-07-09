@@ -6,6 +6,4 @@ $(function ($) {
     pusher.bind_all(function (event,data) {
         console.log(event,arguments);
     });
-
-    //var channel = pusher.subscribe('')
 })
